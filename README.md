@@ -20,13 +20,15 @@ Interface homem-máquina (IHM)
 
 **Tecnologias**
 
-- ** Hardware:**
+- **Hardware:**
+  
 - ESP32-S3
 - PIC12F675
 - RS485
 - ADM2483
 
-- ** Software:**
+- **Software:**
+  
 - C/C++
 - MPLAB X IDE
 - XC8 Compiler
