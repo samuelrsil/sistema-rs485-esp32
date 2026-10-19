@@ -8,6 +8,7 @@ Interface mestre com ESP32-S3 Touch LCD 7B
 Interface homem-máquina (IHM)
 
 -**Status:**
+
 ✅ Esquemático concluído
 
 ✅ PCB concluída
