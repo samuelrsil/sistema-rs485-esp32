@@ -37,3 +37,29 @@ PIC12F675 → ADM2483 (RS485) ⇄ ESP32-S3 Touch LCD 7B
 - PlatformIO
 - EasyEDA
 - VS Code
+
+---
+
+## Imagens do Projeto
+
+**Visualização 3d**
+
+pcb-3d.png
+
+**Layout da PCB**
+
+pcb-top.png
+
+**Esquemático**
+
+Schematic_12F675ADM2483_2026-10-19.png
+
+---
+
+## Próximas Etapas
+
+- Montagem da PCB
+- Desenvolvimento do firmware PIC12F675
+- Desenvolvimento da interface ESP32-S3
+- Testes de comunicação RS485
+- Validação do sistema completo
