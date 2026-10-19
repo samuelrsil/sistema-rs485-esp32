@@ -6,7 +6,8 @@ Nó de aquisição baseado em PIC12F675
 Comunicação RS485 isolada
 Interface mestre com ESP32-S3 Touch LCD 7B
 Interface homem-máquina (IHM)
-Status
+
+-**Status:**
 ✅ Esquemático concluído
 
 ✅ PCB concluída
