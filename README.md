@@ -2,6 +2,7 @@
 Projeto em desenvolvimento para aquisição e monitoramento de sinais analógicos utilizando comunicação RS485 com isolamento galvânico.
 
 **Arquitetura**
+
 Nó de aquisição baseado em PIC12F675
 Comunicação RS485 isolada
 Interface mestre com ESP32-S3 Touch LCD 7B
