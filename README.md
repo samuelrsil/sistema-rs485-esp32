@@ -1,4 +1,4 @@
-# sistema-rs485-esp32
+## sistema-rs485-esp32
 Projeto em desenvolvimento para aquisição e monitoramento de sinais analógicos utilizando comunicação RS485 com isolamento galvânico.
 
 **Arquitetura**
