@@ -44,6 +44,7 @@ PIC12F675 → ADM2483 (RS485) ⇄ ESP32-S3 Touch LCD 7B
 
 **Visualização 3d**
 
+https://github.com/samuelrsil/sistema-rs485-esp32/blob/main/pcb-3d.png?raw=true
 
 **Layout da PCB**
 
