@@ -18,6 +18,8 @@ Interface homem-máquina (IHM)
 
 ⏳ Aguardando montagem e testes
 
+---
+
 **Tecnologias**
 
  **Hardware:**
