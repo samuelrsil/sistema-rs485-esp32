@@ -6,10 +6,7 @@ Desenvolver um sistema distribuído de aquisição e monitoramento de sinais ana
 
 ## Arquitetura
 
-Nó de aquisição baseado em PIC12F675
-Comunicação RS485 isolada
-Interface mestre com ESP32-S3 Touch LCD 7B
-Interface homem-máquina (IHM)
+PIC12F675 → ADM2483 (RS485) ⇄ ESP32-S3 Touch LCD 7B
 
 **Status:**
 
