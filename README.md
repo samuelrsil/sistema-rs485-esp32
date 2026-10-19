@@ -1,7 +1,10 @@
 ## sistema-rs485-esp32
 Projeto em desenvolvimento para aquisição e monitoramento de sinais analógicos utilizando comunicação RS485 com isolamento galvânico.
 
-**Arquitetura**
+## Objetivo
+Desenvolver um sistema distribuído de aquisição e monitoramento de sinais analógicos utilizando comunicação RS485 com isolamento galvânico, permitindo a integração de múltiplos nós de aquisição a uma interface mestre baseada em ESP32-S3
+
+## Arquitetura
 
 Nó de aquisição baseado em PIC12F675
 Comunicação RS485 isolada
@@ -20,7 +23,7 @@ Interface homem-máquina (IHM)
 
 ---
 
-**Tecnologias**
+## Tecnologias
 
  **Hardware:**
   
